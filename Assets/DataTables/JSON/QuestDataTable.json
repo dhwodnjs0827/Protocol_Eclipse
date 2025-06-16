@@ -1,0 +1,84 @@
+[
+	{
+		"ID": 1,
+		"Name": "사령관 만나기",
+		"Description": "사령관한테 가세요",
+		"Objectives": [
+			{
+				"Type": "Find",
+				"Target Type": "NPC",
+				"Target ID": 1,
+				"Target Name": "Commander",
+				"Quantity": 0
+			}
+		],
+		"Rewards": {
+			"EXP": 5,
+			"Gold": 500,
+			"Items": [
+				{
+					"Item Type": "Weapon",
+					"Item ID": 1,
+					"Item Name": "AR",
+					"Quantity": 1
+				},
+				{
+					"Item Type": "ETC",
+					"Item ID": 2,
+					"Item Name": "Bullet_AR",
+					"Quantity": 100
+				}
+			]
+		},
+		"Quest Type": "Main",
+		"Quest Giver": null,
+		"Requirements": null,
+		"Dialogue": {
+			"Start": "",
+			"InProgress": "",
+			"Complete": "���� �Ա�"
+		},
+		"Status": "InProgress"
+	},
+	{
+		"ID": 2,
+		"Name": "공장 지역 확보",
+		"Description": "적을 10마리 처치",
+		"Objectives": [
+			{
+				"Type": "Kill",
+				"Target Type": "Monster",
+				"Target ID": 1,
+				"Target Name": "Zombie",
+				"Quantity": 10
+			}
+		],
+		"Rewards": {
+			"EXP": 100,
+			"Gold": 5000,
+			"Items": [
+				{
+					"Item Type": "Armor",
+					"Item ID": 1,
+					"Item Name": "Head_R",
+					"Quantity": 1
+				}
+			]
+		},
+		"Quest Type": "Main",
+		"Quest Giver": {
+			"NPC ID": 1,
+			"NPC Name": "Commander"
+		},
+		"Requirements": {
+			"Required Quest ID": 1,
+			"Required Min Level": 0
+		},
+		"Dialogue": {
+			"Start": "�ڳ����� ��Ź�� ���� �ֳ�. ���� �������� ���� ���� �����ϰ� ������ Ȯ�����ְ�.",
+			"InProgress": "���� �ӹ��� �������ְ�.",
+			"Complete": "�����߳�."
+		},
+		"Status": "NotStarted"
+	}
+]

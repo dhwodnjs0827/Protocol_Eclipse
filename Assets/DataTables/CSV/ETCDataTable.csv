@@ -1,0 +1,11 @@
+﻿id,name,etc_type
+331100,AR_Bullet,Bullet
+331200,SR_Bullet,Bullet
+331300,SMG_Bullet,Bullet
+331400,SG_Bullet,Bullet
+332100,Weapon_Material_R,Reinforcement
+332200,Weapon_Material_SR,Reinforcement
+333100,Armor_Material_R,Reinforcement
+333200,Armor_Material_SR,Reinforcement
+334100,Module_Material_R,Reinforcement
+334200,Module_Material_SR,Reinforcement

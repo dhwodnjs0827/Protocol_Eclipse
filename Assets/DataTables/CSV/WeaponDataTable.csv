@@ -1,0 +1,13 @@
+﻿id,name,weapon_type,attack_power_per_bullet,RPM,effective_range,reload_time,magazine,fire_power,ice_power,electricity_power,fire_interval_time,prefab_resource_name,sprite_2x1_resource_name,aim_resource_name
+311100,AssaultRifle_R,AR,3,700,100,2,60,0,0,0,0.2,AR,AR_Image_2x1,AR_Aim
+311200,AssaultRifle_SR,AR,5,700,100,2,60,0,0,0,0.2,AR,AR_Image_2x1,AR_Aim
+311300,AssaultRifle_SSR,AR,10,700,100,2,60,0,0,0,0.2,AR,AR_Image_2x1,AR_Aim
+312100,SniperRifle_R,SR,60,100,500,5,5,0,0,0,2.5,SR,SR_Image_2x1,SR_Aim
+312200,SniperRifle_SR,SR,200,100,500,5,5,0,0,0,2.5,SR,SR_Image_2x1,SR_Aim
+312300,SniperRifle_SSR,SR,1000,100,500,5,5,0,0,0,2.5,SR,SR_Image_2x1,SR_Aim
+313100,SubMachineGun_R,SMG,1,1000,50,1,120,0,0,0,0.05,SMG,SMG_Image_2x1,SMG_Aim
+313200,SubMachineGun_SR,SMG,2,1000,50,1,120,0,0,0,0.05,SMG,SMG_Image_2x1,SMG_Aim
+313300,SubMachineGun_SSR,SMG,5,1000,50,1,120,0,0,0,0.05,SMG,SMG_Image_2x1,SMG_Aim
+314100,ShotGun_R,SG,1,150,50,3,10,0,0,0,1,SG,SG_Image_2x1,SG_Aim
+314200,ShotGun_SR,SG,2,150,50,3,10,0,0,0,1,SG,SG_Image_2x1,SG_Aim
+314300,ShotGun_SSR,SG,5,150,50,3,10,0,0,0,1,SG,SG_Image_2x1,SG_Aim

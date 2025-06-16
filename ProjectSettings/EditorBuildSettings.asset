@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Field Scene.unity
+    guid: 0ea880e08f9b9e9458665aa1255f1cb5
+  - enabled: 1
+    path: Assets/Scenes/Base Camp Scene.unity
+    guid: 51515037b4788f74ea7c62db4cb5cb1d
+  m_configObjects: {}
